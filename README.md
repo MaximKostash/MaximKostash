@@ -16,8 +16,7 @@ Here’s what I know and work with:
 ---
 
 ## 🚀 What I Do  
-I focus on:   
-- Developer **WChatPy 2.0-WIC**.
+I focus on:
 - Developing projects to improve coding efficiency and solve practical problems.  
 
 ---
