@@ -17,6 +17,7 @@ Here’s what I know and work with:
 
 ## 🚀 What I Do  
 I focus on:
+- Software development.
 - Developing projects to improve coding efficiency and solve practical problems.  
 
 ---
