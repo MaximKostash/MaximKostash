@@ -32,7 +32,6 @@ Feel free to reach out to me:
 - Telegram: [@MaxKostash](https://t.me/MaxKostash)  
 - Email: [Max Kostash](maxkostash0@gmail.com)
 - Facebook: [Максім Косташ](https://www.facebook.com/profile.php?id=100082897183980)
-- VK: [Max Kostash](https://vk.com/maxkostash)
 
 ---
 
