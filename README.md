@@ -32,6 +32,7 @@ Feel free to reach out to me:
 - [Telegram](https://t.me/MaxKostash)  
 - [Email](maxkostash0@gmail.com)
 - [Facebook](https://www.facebook.com/profile.php?id=100082897183980)
+- [Personal chat](https://wchatpy.pythonanywhere.com/profile/2)
 
 ---
 
