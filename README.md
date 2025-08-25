@@ -31,8 +31,9 @@ I focus on:
 ## 📫 Let’s Connect  
 Feel free to reach out to me:  
 - [Telegram](https://t.me/MaxKostash)  
+- Discord: maxkostash
 - [Email](maxkostash0@gmail.com)
-- [Personal chat](https://wchatpy.pythonanywhere.com/profile/2)
+- [Personal chat](https://wchatpy.pythonanywhere.com/profile/1)
 
 ---
 
